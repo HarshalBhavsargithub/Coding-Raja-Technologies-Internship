@@ -12,7 +12,8 @@ import java.util.*;
 
 /**
  *
- * @author nikhilgadiwadd
+ * @author harshalbhavsar
+ 
  */
 public class FastCash extends JFrame implements ActionListener{
     
